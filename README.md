@@ -1,1 +1,1 @@
-# Stanford-images-classifications-
+# Stanford-images-classifications
